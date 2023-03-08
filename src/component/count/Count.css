@@ -1,0 +1,60 @@
+#img{
+
+    width:  50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 12px;
+}
+#bodyDetails{
+
+    background-color: rgb(226, 226, 226);
+    border-radius: 15px;
+    padding-left: 9%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.radio{
+
+    display: inline-flex;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.25);
+    background-color:  rgb(226, 226, 226);
+}
+.radioInput{
+    display: none;
+}
+.radioLabel{
+
+    padding: 12px 8px;
+    margin: 10px;
+    border-radius: 50%;
+    font-size: 14px;
+    color: aliceblue;
+    background-color: #009578;
+    cursor: pointer;
+    transition: background 0.1s;
+}
+.radioInput:checked + .radioLabel{
+
+    background-color: #006B56;
+}
+.EB-time{
+    background-color:  rgb(226, 226, 226);
+    padding: 12px 12px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+#toastbtn{
+
+    padding: 8px 100px;
+    border-radius: 15px;
+}
+.countBody{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    position: sticky;
+    top: 0;
+}

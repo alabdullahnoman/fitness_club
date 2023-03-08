@@ -1,0 +1,56 @@
+[
+    {
+        "id":"123456q",
+        "name":"Battling ropes",
+        "img":"Image/1.jpg",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio asperiores dolorum praesentium, laborum neque sequi?",
+        "age":"25-27",
+        "time":180,
+        "qunatity":0
+    },
+    {
+        "id":"123456w",
+        "name":"Deadlift",
+        "img":"Image/2.jpg",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio asperiores dolorum praesentium, laborum neque sequi?",
+        "age":"26-27",
+        "time":120,
+        "quantity":0
+    },
+    {
+        "id":"123456e",
+        "name":"Leg press",
+        "img":"Image/3.jpg",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio asperiores dolorum praesentium, laborum neque sequi?",
+        "age":"24-27",
+        "time":140,
+        "qunatity":0
+    },
+    {
+        "id":"123456r",
+        "name":"Pull UP",
+        "img":"Image/4.jpg",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio asperiores dolorum praesentium, laborum neque sequi?",
+        "age":"25-27",
+        "time":240,
+        "qunatity":0
+    },
+    {
+        "id":"123456t",
+        "name":"Cycling",
+        "img":"Image/5.jpg",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio asperiores dolorum praesentium, laborum neque sequi?",
+        "age":"22-27",
+        "time":300,
+        "qunatity":0
+    },
+    {
+        "id":"123456y",
+        "name":"Bicycle crunches",
+        "img":"Image/6.jpg",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio asperiores dolorum praesentium, laborum neque sequi?",
+        "age":"22-27",
+        "time":260,
+        "qunatity":0
+    }
+]
